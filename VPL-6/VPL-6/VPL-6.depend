@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1746208755 source:c:\users\tomas\desktop\faculdade\2o semestre\pds-2\vpl-6\vpl-6\aluno.cpp
+	"aluno.hpp"
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+
+1746208656 c:\users\tomas\desktop\faculdade\2o semestre\pds-2\vpl-6\vpl-6\aluno.hpp
+	<string>
+	<vector>
+
+1746208182 source:c:\users\tomas\desktop\faculdade\2o semestre\pds-2\vpl-6\vpl-6\main.cpp
+	"aluno.hpp"
+	<iostream>
+	<string>
+	<vector>
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1744312748 source:c:\users\tomas\desktop\faculdade\2o semestre\pds-2\vpl-3\empresa.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Empresa.hpp"
+
+1744155795 c:\users\tomas\desktop\faculdade\2o semestre\pds-2\vpl-3\onibus.hpp
+	<iostream>
+	<string>
+	<vector>
+
+1744157928 source:c:\users\tomas\desktop\faculdade\2o semestre\pds-2\vpl-3\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Empresa.hpp"
+	"Onibus.hpp"
+
+1744312302 c:\users\tomas\desktop\faculdade\2o semestre\pds-2\vpl-3\empresa.hpp
+	<iostream>
+	<vector>
+	<string>
+	"Onibus.hpp"
+
+1744313405 source:c:\users\tomas\desktop\faculdade\2o semestre\pds-2\vpl-3\onibus.cpp
+	<iostream>
+	<string>
+	"Onibus.hpp"
+
